@@ -5,7 +5,12 @@ I am currently a computer science major in my second year at the University of W
 
 <h2>:wrench:Technology & Tools</h2>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<dotenv>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+
+
 
 <!--
 **Lilian4441/Lilian4441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
