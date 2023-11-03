@@ -13,3 +13,7 @@ When I'm not buried in a computer science project, you can find me exploring the
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
 ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+
+<h2>📝Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilian4441)](https://github.com/Lilian4441/github-readme-stats)
