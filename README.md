@@ -1,7 +1,11 @@
-<h1> Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lilian Huang!</h1>
+<h1> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Lilian here!</h1>
 
 
-I am currently a computer science major in my second year at the University of Wisconsin - Madison. I am mainly learning Java in my intro computer science courses, but have been learning some C++ and Python on my own as well. I have a passion for coding projects. I intend to spend most of my summer practicing my coding skills and creative skills. I am very excited to broaden my knowledge of the different computer science languages, and just in general, learn more about the world of computer science.
+Hey there! I'm a Dean's List student with a passion for technology and a love of learning. Currently on an exciting journey as a computer science major at the University of Wisconsin-Madison, I'm learning so much about the world of algorithms, coding, and problem-solving.
+
+With a strong work ethic and a genuine love for all things tech, I thrive on challenges and am always eager to explore new opportunities in the ever-evolving realm of computer science. Whether it's diving into coding projects or collaborating with fellow students, I'm always up for the challenge.
+
+When I'm not buried in a computer science project, you can find me exploring the latest trends in the tech world, learning about all sorts of computer science concepts, or enjoying a good cup of chai while brainstorming ideas for projects.
 
 <h2>:wrench:Technology & Tools</h2>
 
