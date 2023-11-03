@@ -1,7 +1,7 @@
 <h1> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Lilian here!</h1>
 
 
-Hey there! I'm a Dean's List student with a passion for technology and a love of learning. Currently on an exciting journey as a computer science major at the University of Wisconsin-Madison, I'm learning so much about the world of algorithms, coding, and problem-solving.
+I'm a Dean's List student with a passion for technology and a love of learning. Currently on an exciting journey as a computer science major at the University of Wisconsin-Madison, I'm learning so much about the world of algorithms, coding, and problem-solving.
 
 With a strong work ethic and a genuine love for all things tech, I thrive on challenges and am always eager to explore new opportunities in the ever-evolving realm of computer science. Whether it's diving into coding projects or collaborating with fellow students, I'm always up for the challenge.
 
