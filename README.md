@@ -1,11 +1,10 @@
 <h1> Hi there👋, Lilian here!</h1>
 
-
-I'm a Dean's List student with a passion for technology and a love of learning. Currently on an exciting journey as a computer science major at the University of Wisconsin-Madison, I'm learning so much about the world of algorithms, coding, and problem-solving.
+Hey there! I'm a Dean's List student with a passion for technology and a love of learning. I am currently a computer science major at the University of Wisconsin-Madison, where I am learning about the world of algorithms, coding, and problem-solving.
 
 With a strong work ethic and a genuine love for all things tech, I thrive on challenges and am always eager to explore new opportunities in the ever-evolving realm of computer science. Whether it's diving into coding projects or collaborating with fellow students, I'm always up for the challenge.
 
-When I'm not buried in a computer science project, you can find me exploring the latest trends in the tech world, learning about all sorts of computer science concepts, or enjoying a good cup of chai while brainstorming ideas for projects. 🚀💻
+When I'm not buried in a computer science project, you can find me exploring the latest trends in the tech world, learning about all sorts of computer science concepts, or enjoying a good cup of chai while brainstorming ideas for projects. Feel free to connect, we can chat about all things computer science or otherwise! 🚀💻
 
 <h2>:wrench:Technology & Tools</h2>
 
