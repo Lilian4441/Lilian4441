@@ -2,7 +2,7 @@
 
 Hey there! I'm a Dean's List student with a passion for technology and a love of learning. I am currently a computer science major at the University of Wisconsin-Madison, where I am learning about the world of algorithms, coding, and problem-solving.
 
-Currently, I am particularly interested in frontend development, like Web Development for example
+Currently, I am particularly interested in frontend development, like Web Development for example.
 
 When I'm not working on a computer science project, you can find me reading, watching movies, and exploring interesting computer science concepts and new ideas. Feel free to connect, we can chat about all things computer science or otherwise! 🚀💻
 
