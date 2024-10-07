@@ -7,11 +7,17 @@ Currently, I am particularly interested in frontend development, like Web Develo
 When I'm not working on a computer science project, you can find me reading, watching movies, and exploring interesting computer science concepts and new ideas. Feel free to connect, we can chat about all things computer science or otherwise! 🚀💻
 
 <h2>:wrench:Technology & Tools</h2>
+<h3>Tools</h3>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+
+<h3>Languages</h3>
+
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/HTML/CSS-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
 
 <h2>📝Languages</h2>
 
