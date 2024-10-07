@@ -12,13 +12,6 @@ When I'm not working on a computer science project, you can find me reading, wat
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
 
-<h3>Languages</h3>
-
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/HTML/CSS-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<>&logoColor=white&color=b195d2)
-
 <h2>📝Languages</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilian4441)](https://github.com/Lilian4441/github-readme-stats)
